@@ -176,7 +176,7 @@ GEM
     builder (3.3.0)
     bzip2-ffi (1.1.1)
       ffi (~> 1.0)
-    cancancan (3.6.1)
+    cancancan (3.6.2)
     capybara (3.40.0)
       addressable
       matrix
@@ -449,7 +449,7 @@ GEM
     net-http (0.10.0)
       net-protocol (>= 0.3.0)
       uri (>= 0.11.1)
-    net-imap (0.6.7)
+    net-imap (0.6.8)
       date
       net-protocol
     net-pop (0.1.2)
@@ -947,7 +947,7 @@ GEM
       simpleidn
     vendorer (0.2.0)
     version_gem (1.1.15)
-    webmock (3.29.0)
+    webmock (3.30.0)
       addressable (>= 2.8.0)
       crack (>= 0.3.2)
       hashdiff (>= 0.4.0, < 2.0.0)
